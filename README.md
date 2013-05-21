@@ -6,7 +6,7 @@ Java demo for Layers, Facade, Strategy patterns
 Class Definitions
 -------------------
 
-• UIFacade - UserInterface that gives you two options; To run an automatic test (which creates a manual run and 3 recipe runs), and go to the machine control (create custom control values or choose recipes).
+• UIFacade - UserInterface that gives you two options. 1-run an automatic test (which creates a manual run and 3 recipe runs), and 2- go to the machine control (create custom control values or choose recipes).
 
 • UserInterface - UserInterface where you can customize the manufacturing by setting control values.
 
